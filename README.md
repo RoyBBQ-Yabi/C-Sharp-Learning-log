@@ -8,6 +8,5 @@
 - [x] while & do-while 迴圈基礎概念
 - [x] 元組 ( Tuples ) 基礎概念
 - [ ] Random、Class 基礎概念
-- [ ] 
 ## 學習教材
 https://exercism.org/tracks/csharp/concepts
