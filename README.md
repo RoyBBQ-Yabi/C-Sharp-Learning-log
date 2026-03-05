@@ -9,5 +9,5 @@
 - [x] 元組 ( Tuples ) 基礎概念
 - [ ] Random、Class 基礎概念
 ## 學習教材
-https://exercism.org/tracks/csharp/concepts  
-https://learn.microsoft.com/zh-tw/dotnet/csharp/  
+* https://exercism.org/tracks/csharp/concepts  
+* https://learn.microsoft.com/zh-tw/dotnet/csharp/  
