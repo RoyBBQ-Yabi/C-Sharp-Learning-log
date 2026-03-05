@@ -10,3 +10,4 @@
 - [ ] Random、Class 基礎概念
 ## 學習教材
 https://exercism.org/tracks/csharp/concepts
+https://learn.microsoft.com/zh-tw/dotnet/csharp/
