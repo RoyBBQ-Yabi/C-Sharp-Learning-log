@@ -6,8 +6,13 @@
 - [x] 字串、整數、浮點數變數宣告
 - [x] if-else 迴圈基礎概念
 - [x] while & do-while 迴圈基礎概念
+- [x] for 迴圈基礎概念
+- [ ] foreach 迴圈基礎概念
 - [x] 元組 ( Tuples ) 基礎概念
-- [ ] Random、Class 基礎概念
+- [x] Random、Class 基礎概念
+- [ ] 日期 & 時間 ( DateTime ) 基礎概念
+- [ ] 建構子 ( Constructor  ) 基礎概念
+- [ ] 陣列基礎概念
 ## 學習教材
 * https://exercism.org/tracks/csharp/concepts  
 * https://learn.microsoft.com/zh-tw/dotnet/csharp/  
