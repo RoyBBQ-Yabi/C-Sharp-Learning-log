@@ -13,6 +13,10 @@
 - [x] 日期 & 時間 ( DateTime ) 基礎概念
 - [ ] 建構子 ( Constructor  ) 基礎概念
 - [ ] 陣列基礎概念
+
+## 備註事項
+若開啟程式碼檔案時出現錯誤請將頁面重新整理即可開啟。
+
 ## 學習教材
 * https://exercism.org/tracks/csharp/concepts  
 * https://learn.microsoft.com/zh-tw/dotnet/csharp/  
