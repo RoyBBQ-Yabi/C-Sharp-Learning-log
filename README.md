@@ -11,7 +11,7 @@
 - [x] 元組 ( Tuples ) 基礎概念
 - [x] Random、Class 基礎概念
 - [x] 日期 & 時間 ( DateTime ) 基礎概念
-- [ ] 建構子 ( Constructor  ) 基礎概念
+- [x] 建構子 ( Constructor  ) 基礎概念
 - [ ] 陣列基礎概念
 
 ## 備註事項
