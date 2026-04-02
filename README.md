@@ -7,12 +7,13 @@
 - [x] if-else 迴圈基礎概念
 - [x] while & do-while 迴圈基礎概念
 - [x] for 迴圈基礎概念
-- [ ] foreach 迴圈基礎概念
+- [x] foreach 迴圈基礎概念
 - [x] 元組 ( Tuples ) 基礎概念
 - [x] Random、Class 基礎概念
 - [x] 日期 & 時間 ( DateTime ) 基礎概念
 - [x] 建構子 ( Constructor  ) 基礎概念
-- [ ] 陣列基礎概念
+- [x] 陣列基礎概念
+- [ ] 
 
 ## 備註事項
 若開啟程式碼檔案時出現錯誤請將頁面重新整理即可開啟。
