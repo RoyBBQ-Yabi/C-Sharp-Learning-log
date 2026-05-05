@@ -17,7 +17,7 @@
 - [X] 通用型別基礎概念
 - [X] 清單、整數、字元
 - [X] 字串產生類( String Builder )
-- [ ] Switch 語法基礎概念
+- [x] Switch 語法基礎概念
 - [ ] 字典 ( Dictionary ) 基礎概念
 - [ ] 時間 ( Time ) 、時區 ( TimeZone ) 基礎概念
 - [ ] 例外處理 ( exception  ) 基礎概念
