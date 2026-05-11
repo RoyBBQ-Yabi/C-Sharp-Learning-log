@@ -19,7 +19,7 @@
 - [X] 字串產生類( String Builder )
 - [x] Switch 語法基礎概念
 - [ ] 字典 ( Dictionary ) 基礎概念
-- [ ] 時間 ( Time ) 、時區 ( TimeZone ) 基礎概念
+- [x] 時間 ( Time ) 、時區 ( TimeZone ) 基礎概念
 - [ ] 例外處理 ( exception  ) 基礎概念
 - [ ] 列舉 (Enums) 類別基礎概念
 
