@@ -28,4 +28,7 @@
 
 ## 學習教材
 * https://exercism.org/tracks/csharp/concepts  
-* https://learn.microsoft.com/zh-tw/dotnet/csharp/  
+* https://learn.microsoft.com/zh-tw/dotnet/csharp/
+
+## Exercism 個人頁面
+* https://exercism.org/profiles/RoyBBQ-Yabi
